@@ -1,0 +1,10 @@
+- [x] Check if Qiskit is installed on the system
+- [x] Install Qiskit and matplotlib if not available
+- [x] Create grover_search.py with oracle function for marking the target state
+- [x] Add diffusion operator function for amplitude amplification
+- [x] Implement the main Grover's circuit with initialization, oracle, diffusion, and measurement
+- [x] Add code to simulate the algorithm for 0, 1, and 2 iterations to show probability increase
+- [x] Add visualization using plot_histogram to display results
+- [x] Run the script and verify the output
+- [x] Perform thorough testing: run more iterations, test different target states, verify operators
+- [x] Create README.md with description, results, and instructions for running
